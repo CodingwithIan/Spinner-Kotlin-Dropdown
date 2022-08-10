@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="selected_item">Selected Item:</string>
+
+    //string array
+    <string-array name="schools">
+        <item>Nakuru East</item>
+        <item>Lanet Primary</item>
+        <item>Radiance</item>
+        <item>Gracious</item>
+        <item>Roots Academy</item>
+        <item>Lanet Secondary</item>
+        <item>Umoja Primary</item>
+        <item>Anestar Primary</item>
+    </string-array>
+</resources>
